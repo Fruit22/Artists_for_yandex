@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ForYandex</string>
+    <string name="err_connection_title">Ошибка соединения</string>
+    <string name="err_connection_massage">Пожалуйста, проверьте подключение к интернету</string>
+    <string name="err_connection_retry">Повторить</string>
+    <string name="err_exit">Выход</string>
+    <string name="err_server_title">Ошибка сервера</string>
+    <string name="err_server_massage">Ошибка сервера, попробуйте позже</string>
+    <string name="err_unknown_title">Неизвестная ошибка</string>
+    <string name="err_unknown_massage">Произошел сбой, перезапустите приложение</string>
+    <string name="title_activity_artist">ArtistActivity</string>
+</resources>
